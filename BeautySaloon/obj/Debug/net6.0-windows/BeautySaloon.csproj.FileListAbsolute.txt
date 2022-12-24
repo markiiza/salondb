@@ -1,0 +1,191 @@
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\BeautySaloon.exe
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\BeautySaloon.deps.json
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\BeautySaloon.runtimeconfig.json
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\BeautySaloon.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\BeautySaloon.pdb
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.csproj.AssemblyReference.cache
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon_MarkupCompile.cache
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon_MarkupCompile.lref
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\obj\Debug\net6.0-windows\App.baml
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.g.resources
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.AssemblyInfoInputs.cache
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.AssemblyInfo.cs
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.csproj.CoreCompileInputs.cache
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.csproj.CopyComplete
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\obj\Debug\net6.0-windows\refint\BeautySaloon.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.pdb
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.genruntimeconfig.cache
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\obj\Debug\net6.0-windows\ref\BeautySaloon.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon_Content.g.cs
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\obj\Debug\net6.0-windows\Views\LoginWindow.g.cs
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\obj\Debug\net6.0-windows\Views\LoginWindow.baml
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\obj\Debug\net6.0-windows\Views\BrowMain.g.cs
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\obj\Debug\net6.0-windows\Views\BrowMain.baml
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\obj\Debug\net6.0-windows\Views\ServicesPage .g.cs
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\obj\Debug\net6.0-windows\Views\ServicesPage .baml
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\307-04\Documents\liiiiizzz\wpf\BeautySaloon\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\BeautySaloon.exe
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\BeautySaloon.deps.json
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\BeautySaloon.runtimeconfig.json
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\BeautySaloon.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\BeautySaloon.pdb
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.csproj.AssemblyReference.cache
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\obj\Debug\net6.0-windows\Views\BrowMain.g.cs
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\obj\Debug\net6.0-windows\Views\LoginWindow.g.cs
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\obj\Debug\net6.0-windows\Views\ServicesPage .g.cs
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon_Content.g.cs
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon_MarkupCompile.cache
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon_MarkupCompile.lref
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\obj\Debug\net6.0-windows\App.baml
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\obj\Debug\net6.0-windows\Views\BrowMain.baml
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\obj\Debug\net6.0-windows\Views\LoginWindow.baml
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\obj\Debug\net6.0-windows\Views\ServicesPage .baml
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.g.resources
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.AssemblyInfoInputs.cache
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.AssemblyInfo.cs
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.csproj.CopyComplete
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\obj\Debug\net6.0-windows\refint\BeautySaloon.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.pdb
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.genruntimeconfig.cache
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\obj\Debug\net6.0-windows\ref\BeautySaloon.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\obj\Debug\net6.0-windows\Views\UpdateServicePage.g.cs
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\obj\Debug\net6.0-windows\Views\UpdateServicePage.baml
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\obj\Debug\net6.0-windows\Views\Registration.g.cs
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\obj\Debug\net6.0-windows\Views\Registration.baml
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Assets\Images\Services\122454.png
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Assets\Images\Services\96.png
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Assets\Images\Services\face.png
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Assets\Images\Services\makeup.jpg
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Assets\Images\Services\man.png
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Assets\Images\Services\mask.jpeg
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Assets\Images\Services\no_image.png
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Assets\Images\Services\piling.jpg
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Assets\Images\Services\soliarij.jpg
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Assets\Images\Services\брови.png
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Assets\Images\Services\Гречишный массаж.jpg
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Assets\Images\Services\Декорирование нарощенных ресниц стразами.jpg
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Assets\Images\Services\Демакияж.jpg
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Assets\Images\Services\Депиляция воском.jpg
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Assets\Images\Services\Европейский маникюр.jpg
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Assets\Images\Services\ИК-сауна.jpg
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Assets\Images\Services\Классический маникюр.png
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Assets\Images\Services\Комбинированный маникюр.jpg
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Assets\Images\Services\Контурная пластика.jpg
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Assets\Images\Services\массаж.jpg
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Assets\Images\Services\Мезотерапия.jpg
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Assets\Images\Services\Моделирование ресниц.jpg
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Assets\Images\Services\ногти.png
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Assets\Images\Services\Окрашивание бровей.jpg
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Assets\Images\Services\Парафинотерапия.jpg
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Assets\Images\Services\Покрытие ногтей гель-лаком.jpg
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Assets\Images\Services\Полировка ногтей.jpg
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Assets\Images\Services\Прессотерапия.jpg
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Assets\Images\Services\Прокол ушей пистолетом.png
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Assets\Images\Services\Ресницы.png
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Assets\Images\Services\Снятие ресниц.jpg
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Assets\Images\Services\Стоун-терапия.jpg
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Assets\Images\Services\стрижка.png
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Assets\Images\Services\Укрепление ногтей гелем.jpg
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Assets\Images\Services\Шугаринг.jpg
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Assets\Images\Services\Экспресс SPA.png
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\bin\Debug\net6.0-windows\Assets\Images\Services\Экспресс-педикюр.jpg
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\obj\Debug\net6.0-windows\Views\blijnie.g.cs
+C:\Users\Huawei\OneDrive\Рабочий стол\BeautySaloon\obj\Debug\net6.0-windows\Views\blijnie.baml
